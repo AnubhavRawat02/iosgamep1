@@ -14,6 +14,7 @@ struct L: Hashable{
     init(ltr: String, id: UUID) {
         self.ltr = ltr
         self.id = id
+        
     }
 }
 
